@@ -1,0 +1,13 @@
+
+[18 06 2018 14:47:35] https://api.vk.com/method/messages.send?v=5.0&user_id=165054978&message=Теперь+Вы+подписаны+на+уведомления&access_token=68c7078220d4fddd52c94b3d708aa8eefefb9b13f90179dfe9394b33cb402d5320ad56416051f8aa7bac9
+{"response":424}
+[18 06 2018 14:49:40] https://api.vk.com/method/messages.send?v=5.0&user_id=194237312&message=Теперь+Вы+подписаны+на+уведомления&access_token=68c7078220d4fddd52c94b3d708aa8eefefb9b13f90179dfe9394b33cb402d5320ad56416051f8aa7bac9
+{"response":426}
+[18 06 2018 14:49:50] https://api.vk.com/method/messages.send?v=5.0&user_id=194237312&message=Теперь+Вы+подписаны+на+уведомления&access_token=68c7078220d4fddd52c94b3d708aa8eefefb9b13f90179dfe9394b33cb402d5320ad56416051f8aa7bac9
+{"response":428}
+[18 06 2018 16:09:50] https://api.vk.com/method/messages.send?v=5.0&user_id=194237312&message=Теперь+Вы+подписаны+на+уведомления.&access_token=68c7078220d4fddd52c94b3d708aa8eefefb9b13f90179dfe9394b33cb402d5320ad56416051f8aa7bac9
+{"response":435}
+[19 06 2018 21:26:16] https://api.vk.com/method/messages.send?v=5.0&user_id=314197270&message=Теперь+Вы+подписаны+на+уведомления.&access_token=68c7078220d4fddd52c94b3d708aa8eefefb9b13f90179dfe9394b33cb402d5320ad56416051f8aa7bac9
+{"response":437}
+[20 06 2018 07:33:34] https://api.vk.com/method/messages.send?v=5.0&user_id=165054978&message=Теперь+Вы+подписаны+на+уведомления.&access_token=68c7078220d4fddd52c94b3d708aa8eefefb9b13f90179dfe9394b33cb402d5320ad56416051f8aa7bac9
+{"response":439}
